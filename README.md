@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an ambitious and curious learner, passionate a
 ## 🚀 About Me
 - 📚 **Final year Computer Science** undergraduate at **Staffordshire University (APIIT)**.
 - 🎨 Designed and developed multiple **mobile apps** and **web applications**.
-- 💡 Currently exploring and enhancing my skills in **Flutter**, **React**, **Node.js**, and many more exciting technologies.
+- 💡 Currently exploring and enhancing my skills in **Flutter**, **React**, **Node.js**, and many more.
 
 ---
 
