@@ -37,27 +37,40 @@ Welcome to my GitHub profile! I'm an ambitious and curious learner, passionate a
 ---
 
 ## 🌟 Featured Projects
-- **[Turtle Hatchery Website](#)**  
+- **[Turtle Hatchery Website](https://github.com/lithirasilva/WDOS2-github.io)**  
   A web platform to explore tourist locations for turtle hatcheries in Sri Lanka, featuring ticket booking and souvenir purchasing systems.
 
-- **[Clinic Management System](#)**  
+- **[Clinic Management System](https://github.com/lithirasilva/Solo-Med)**  
   Built using Laravel Inertia and Vue.js, this app simplifies clinic operations with appointment management, patient records, and digital prescriptions.
 
-- **[Food Delivery Mobile App](#)**  
+- **[Food Delivery Mobile App](https://github.com/lithirasilva/dishdash-cb0120203)**  
   Developed with Flutter and Firebase, this app provides an intuitive interface for food delivery services.
 
-- **[Stock Management System](#)**  
+- **[Stock Management System](https://github.com/lithirasilva/Stockmngsys)**  
   A C# and SQL-based solution for efficient stock tracking in businesses.
 
-- **[Morse Code Translator](#)**  
+- **[Morse Code Translator](https://github.com/lithirasilva/Morse-Code-Translator)**  
   A Morse Code Translator using a binary tree to encode, decode, and reverse messages.
+
 
 ---
 
 ## 🌐 Connect with Me
-- 🔨 [GitHub](https://github.com/lithirasilva)  
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/lithira-silva)  
-- 📧 [Email Me](mailto:lithira.uthsara@gmail.com)
+<p align="center">
+  <a href="https://www.instagram.com/lithira.silva/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" style="border: none; outline: none;" />
+  </a>
+  <a href="https://www.linkedin.com/in/lithira-silva" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="mailto:lithira.uthsara@gmail.com">
+    <img src="https://img.icons8.com/color/452/gmail-new.png" alt="Email" width="40" style="border: none; outline: none;" />
+  </a>
+</p>
+
+
+
+
 
 ---
 
