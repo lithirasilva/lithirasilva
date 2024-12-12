@@ -1,4 +1,4 @@
-# Hi there, I'm Lithira 👨‍💻
+# Hi there!, I'm Lithira 👨‍💻
 
 🌟 Final Year Computer Science Undergraduate | 🎨 Tech Enthusiast
 
@@ -63,6 +63,24 @@ Here are some of the projects I've worked on:
 
 - **[Morse Code Translator](https://github.com/lithirasilva/Morse-Code-Translator)**  
   A Morse Code Translator using a binary tree to encode, decode, and reverse messages.
+
+---
+
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lithirasilva&show_icons=true&count_private=true&hide_title=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithirasilva&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
